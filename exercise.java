@@ -46,16 +46,16 @@ System.out.println(" \\        / ");
 System.out.println("  _________  ");
 
 //Exercise 11
-System.out.println("  /\\       /\\    ")
-System.out.println(" /  \\     /  \\   ")
-System.out.println("/    \\   /    \\  ")
-System.out.println("+------+  +------+ ")
-System.out.println("|      |  |      | ")
-System.out.println("|      |  |      | ")
-System.out.println("|United|  |United| ")
-System.out.println("|States|  |States| ")
-System.out.println("|      |  |      | ")
-System.out.println("|      |  |      | ")
-System.out.println("+------+  +------+ ")
-System.out.println("   /\\       /\\   ")
-System.out.println("  /  \\     /  \\  ")
+System.out.println("  /\\       /\\    ");
+System.out.println(" /  \\     /  \\   ");
+System.out.println("/    \\   /    \\  ");
+System.out.println("+------+  +------+ ");
+System.out.println("|      |  |      | ");
+System.out.println("|      |  |      | ");
+System.out.println("|United|  |United| ");
+System.out.println("|States|  |States| ");
+System.out.println("|      |  |      | ");
+System.out.println("|      |  |      | ");
+System.out.println("+------+  +------+ ");
+System.out.println("   /\\       /\\   ");
+System.out.println("  /  \\     /  \\  ");
