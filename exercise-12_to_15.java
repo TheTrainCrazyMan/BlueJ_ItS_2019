@@ -52,7 +52,7 @@ public static void Line()
 
 public static void StarLine()
 {
-  System.out.println("* | | | | | *")
+  System.out.println("* | | | | | | *")
 }
 
 public static void SmallLine()
