@@ -52,7 +52,21 @@ System.out.println("  333")
 System.out.println(" 4444")
 System.out.println("55555")
 //Exercise 9
-
+for (int i = 1; i <=2; i++)
+{  
+   for (int i = 1; i <=2; i++)
+   {   
+      System.out.print("----------");
+   }
+   for (int i = 1; i <=5; i++)
+   {
+      System.out.print("_-^-");
+   }
+   System.out.print("11223344556677889900");
+   for (int i = 1; i <=2; i++)
+   {
+      System.out.print("----------");
+   }
 //Exercise 10
 
 //Exercise 11
